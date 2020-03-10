@@ -1,1 +1,0 @@
-python strabo-text-recognition-deep-learning/run_command_line.py --image results/155/TK50_1_Langenhorn_1920.jpg --config strabo_configuration.ini --checkpoint-path strabo-text-recognition-deep-learning/east_icdar2015_resnet_v1_50_rbox
