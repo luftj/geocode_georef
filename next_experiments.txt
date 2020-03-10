@@ -1,0 +1,3 @@
+../data/tk25/2000-09/TK25_2426_Wandsbek_2004_cut.jpg,transform=tps,lang=deu,countrycode=DE,psm=7,use_cb=true,use_colour_sep=false
+../data/tk25/2000-09/TK25_2525_Harburg_2004_cut.jpg
+../data/tk25/2000-09/TK25_2526_Allermöhe_2004_cut.jpg
